@@ -18,5 +18,8 @@ We set a conditional breakpoint on the next line of code in it, and uncheck the 
 <p>
 This will use the new username instead of Dev the next time you boot.
 </p>
+<p>
+Make debugging LAN possible
+</p>
 
 **Tip: Note that optionspec10 in the code represents the username configuration, if it changes in the future, you need to set it to the new username configuration**
